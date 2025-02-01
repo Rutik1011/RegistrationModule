@@ -53,7 +53,7 @@ This module provides a basic user registration functionality. Users can fill out
 
 ### Installation
 
-1.  Clone the repository: `git clone https://github.com/[your-username]/[your-repository-name].git`
+1.  Clone the repository
 2.  Import the project into Eclipse as a Maven project.
 3.  Configure the database connection in `application.properties` 
 4.  Resolve any dependencies in Eclipse.
